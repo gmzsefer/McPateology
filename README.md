@@ -18,7 +18,7 @@ This project contains both visual design (`.dfm`) and business logic (`.pas`) fi
 
 ## 🖼️ Interface Screenshot
 
-![Form UI](C:\Users\ACER\Pictures\Screenshots\Ekran görüntüsü 2024-09-08 165402 - Kopya.png)
+![Form UI](Kopya.png)
 
 > *If image is not visible, make sure `screenshot.png` is uploaded.*
 
