@@ -20,6 +20,8 @@ This project contains both visual design (`.dfm`) and business logic (`.pas`) fi
 
 ![Form UI](Kopya.png)
 
+)
+
 > *If image is not visible, make sure `screenshot.png` is uploaded.*
 
 ---
